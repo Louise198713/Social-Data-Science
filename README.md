@@ -6,4 +6,4 @@
 
 
 Project on Network Analysis and Natural Language Processing
-[notebook](https://raw.githubusercontent.com/Louise198713/Social-Data-Science/main/M4%20Project.nb.html.html)
+[notebook](https://louise198713.github.io/Social-Data-Science/M4Project)
