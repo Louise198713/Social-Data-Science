@@ -8,7 +8,7 @@ Construction of a model able to classify Portougese students as either passing o
 
 ### Module 2 -  Network Analysis and Natural Language Processing
 
-Construction of a model able to classify tweest related to the BlackLivesMatter movements resurgence in october/november 2020.
+Construction of a model able to classify tweest related to the BlackLivesMatter movement's resurgence in october/november 2020.
 [Notebook](https://louise198713.github.io/Social-Data-Science/M2)
 
 ### Module 3 -  Neural networks
